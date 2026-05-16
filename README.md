@@ -68,4 +68,3 @@ Este projeto foi desenvolvido para praticar:
 
 **Eduarda Andrade**  
 **Jade Carvalho**
-Estudantes de Engenharia de Software
