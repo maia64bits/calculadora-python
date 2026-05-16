@@ -64,17 +64,6 @@ Este projeto foi desenvolvido para praticar:
 
 ---
 
-## 💡 Melhorias futuras
-
-- Interface gráfica
-- Exportação em PDF
-- Banco de dados
-- Cadastro de múltiplos funcionários
-- Validação de entradas
-- Versão web
-
----
-
 ## 👩‍💻 Desenvolvido por
 
 **Eduarda Andrade**  
